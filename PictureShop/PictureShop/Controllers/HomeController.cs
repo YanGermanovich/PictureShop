@@ -11,8 +11,6 @@ namespace PictureShop.Controllers
     {
         public ActionResult Index()
         {
-            
-
             return View();
         }
     }
